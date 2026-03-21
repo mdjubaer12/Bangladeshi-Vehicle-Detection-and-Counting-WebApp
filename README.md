@@ -1,6 +1,7 @@
 # Bangladeshi-Vehicle-Detection-WebApp
 
 Sample Output: 
+
 **Note:** Due to the camera angle, there is a slight mismatch in the vehicle count. If the footage is taken from a slightly higher camera angle or if CCTV footage is used, a better output can be achieved.
 
 
