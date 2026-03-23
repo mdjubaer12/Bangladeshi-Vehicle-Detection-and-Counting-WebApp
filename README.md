@@ -1,4 +1,4 @@
-# Bangladeshi Vehicle Counting by Categories WebApp
+# Bangladeshi Vehicle Category wise Counting WebApp
 
 Sample Output: 
 
